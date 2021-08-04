@@ -1,4 +1,4 @@
-# Food Court Management App AWS Deployemnt
+# Food Court Management App AWS Deployment
 
 This repo contains only this READEME file, to document the process of deploying the app to AWS.
 
